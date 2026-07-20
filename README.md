@@ -1,1 +1,2 @@
-# paradoxexegames.github.io
+# Paradox EXE Games
+[https://paradox-exe-games.github.io/paradoxexegames/]

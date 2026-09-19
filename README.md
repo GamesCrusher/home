@@ -1,2 +1,2 @@
 # Paradox EXE Games
-[Paradox EXE Games](https://paradox-exe-games.github.io/paradoxexegames)
+[Games Crusher](https://gamescrusher.github.io/home)
